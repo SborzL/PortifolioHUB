@@ -1,9 +1,3 @@
-Com base no conteúdo detalhado do seu GitHub Pages (https://sborzl.github.io/PortifolioHUB) e seguindo todos os seus requisitos (descrição atrativa, tecnologias, links diretos de Pages e LinkedIn), preparei um README.md completo e profissional para o seu repositório.
-
-Este arquivo é um guia completo focado no seu objetivo de estágio e na sua base de conhecimento atual em C e Python.
-
-Markdown
-
 # 🌟 PortifolioHUB | Luís André Sborz
 
 ## Estudante de Ciência da Computação (1º Semestre) | Base Sólida em C e Python
